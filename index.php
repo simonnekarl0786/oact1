@@ -1,4 +1,4 @@
 <?php
-header("Location: https://www.puritancleaners.com/about-us");
+header("Location: http://closetinteriors.us");
 die();
 ?>
